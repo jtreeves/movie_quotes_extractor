@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0)
 
-project(MovieQuotesGenerator)
+project(MovieQuotesExtractor)
 
-add_library(MovieQuotesGenerator movie_quotes_generator.cpp)
+add_library(MovieQuotesExtractor movie_quotes_extractor.cpp)
