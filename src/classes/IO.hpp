@@ -1,6 +1,7 @@
 namespace MovieQuotesExtractor {
     class IO {
         public:
-            IO() {};
+            void requestTitle();
+            void createJSON();
     };
 };

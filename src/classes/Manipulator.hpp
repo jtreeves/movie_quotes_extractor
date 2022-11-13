@@ -1,6 +1,7 @@
 namespace MovieQuotesExtractor {
     class Manipulator {
         public:
-            Manipulator() {};
+            void partitionScript();
+            void extractAllQuotes();
     };
 };

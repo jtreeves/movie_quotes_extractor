@@ -1,6 +1,9 @@
 namespace MovieQuotesExtractor {
     class WebScraper {
         public:
-            WebScraper() {};
+            void openConnection();
+            void findMovieByTitle();
+            void goToScriptPage();
+            void scrapeScript();
     };
 };
