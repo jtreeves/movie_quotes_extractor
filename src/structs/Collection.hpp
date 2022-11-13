@@ -1,5 +1,4 @@
 #include <vector>
-#include "Script.hpp"
 #include "Quote.hpp"
 
 namespace MovieQuotesExtractor {
